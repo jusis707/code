@@ -6,6 +6,10 @@
         {
             "name": "hello-nodejs",
             "path": "."
+        },
+        {
+            "name": "DO101x-apps",
+            "path": "../DO101x-apps/DO101x-apps"
         }
     ]
 }
